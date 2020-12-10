@@ -17,7 +17,7 @@ class ViewController: UIViewController {
     }
 
     @IBAction func downloadApi(_ sender: Any) {
-        print("kkk")
+        
     }
 }
 
